@@ -49,7 +49,7 @@
   (pad B9 smd roundrect (at -2.45 -4.245) (size 0.6 1.85) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
   (pad A9 smd roundrect (at 2.45 -4.245) (size 0.6 1.85) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
   (pad B1 smd roundrect (at 3.25 -4.245) (size 0.6 1.85) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.125))
-  (model ${KISYS3DMOD}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
