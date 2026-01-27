@@ -6,7 +6,7 @@
 	(descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 	(tags "usb usb-c 2.0 pd")
 	(property "Reference" "REF**"
-		(at 0 -5.45 0)
+		(at 0 -5.2 0)
 		(layer "F.SilkS")
 		(uuid "397f4e4c-096e-4f5c-8837-20b75910d1c8")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "USB_C_Receptacle_Molex-2171790001"
-		(at 0 5.65 0)
+		(at 0 4.3 0)
 		(layer "F.Fab")
 		(uuid "b452ff87-4056-4e20-8fa7-a1b7c61c9e7c")
 		(effects
@@ -55,8 +55,8 @@
 	(clearance 0.1)
 	(attr smd)
 	(fp_line
-		(start -4.7 -1.35)
-		(end -4.7 0.65)
+		(start -4.7 -1.8)
+		(end -4.7 0.2)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -65,8 +65,8 @@
 		(uuid "e1d75f7a-cfdd-4f11-b526-d4a7fee3d079")
 	)
 	(fp_line
-		(start -4.7 2.55)
-		(end -4.7 3.55)
+		(start -4.7 2.4)
+		(end -4.7 2.8)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -75,8 +75,8 @@
 		(uuid "00ea3084-f1b7-4e66-9fd8-44141341d55c")
 	)
 	(fp_line
-		(start -4.7 3.55)
-		(end 4.7 3.55)
+		(start -4.7 2.8)
+		(end 4.7 2.8)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -85,8 +85,8 @@
 		(uuid "9b1a7ce3-b2fd-45b8-9506-464109bce0f8")
 	)
 	(fp_line
-		(start 4.7 -1.35)
-		(end 4.7 0.65)
+		(start 4.7 -1.8)
+		(end 4.7 0.2)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -95,8 +95,8 @@
 		(uuid "25c0d1e6-3fb3-4c4e-830e-564e433cbf46")
 	)
 	(fp_line
-		(start 4.7 2.55)
-		(end 4.7 3.55)
+		(start 4.7 2.4)
+		(end 4.7 2.8)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -157,8 +157,8 @@
 		(uuid "280b7a38-fc7b-48b9-93ab-aa2011b65964")
 	)
 	(fp_line
-		(start -5.5 -4.9)
-		(end -5.5 4.7)
+		(start -5.5 -4.7)
+		(end -5.5 3.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -167,8 +167,8 @@
 		(uuid "1a1251ba-80e8-46f5-a181-7ac0aaebe6c3")
 	)
 	(fp_line
-		(start -5.5 -4.9)
-		(end 5.5 -4.9)
+		(start -5.5 -4.7)
+		(end 5.5 -4.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -177,8 +177,8 @@
 		(uuid "cd5f42ac-8a21-4ce3-bbbf-f44f6950aa71")
 	)
 	(fp_line
-		(start -5.5 4.7)
-		(end 5.5 4.7)
+		(start -5.5 3.7)
+		(end 5.5 3.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -187,8 +187,8 @@
 		(uuid "ff4aff8e-9d9d-40eb-8845-a05030316ec7")
 	)
 	(fp_line
-		(start 5.5 -4.9)
-		(end 5.5 4.7)
+		(start 5.5 -4.7)
+		(end 5.5 3.7)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -198,7 +198,7 @@
 	)
 	(fp_line
 		(start -4.47 -3.1)
-		(end -4.47 4.2)
+		(end -4.47 3.375)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -217,8 +217,8 @@
 		(uuid "0f96c6b1-a892-44d6-8dc9-e05fd620b07d")
 	)
 	(fp_line
-		(start -4.47 4.2)
-		(end 4.47 4.2)
+		(start -4.47 3.375)
+		(end 4.47 3.375)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -228,7 +228,7 @@
 	)
 	(fp_line
 		(start 4.47 -3.1)
-		(end 4.47 4.2)
+		(end 4.47 3.375)
 		(stroke
 			(width 0.1)
 			(type solid)
